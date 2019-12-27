@@ -25,4 +25,4 @@ All listed above, never tried emotion detection using machine learning before.
 What's next for StageCraft
 This idea can be scaled up for other applications like interview testing, which is what we'll be pursuing next!
 
-NOTE: WE USED EXISTING MODEL FOR EMOTION CLASSIFICATION FROM A GITHUB REPO
+NOTE: WE USED EXISTING MODEL FOR EMOTION CLASSIFICATION FROM A GITHUB REPO I THINK THIS ONE 
