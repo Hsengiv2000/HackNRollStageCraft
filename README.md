@@ -1,3 +1,4 @@
+##### WE WON THE TOP PRIZE WOOOHOOOO
 # HackNRollStageCraft
 A tool that helps budding actors practise a wide range of emotions aided by computer vision.
 We wish to compete for the Best freshman Hack.
